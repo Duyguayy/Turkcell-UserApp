@@ -4,6 +4,11 @@ Modern Android uygulaması. **MVVM**, **Jetpack Compose**, **Retrofit** kullanı
 
 ---
 
+!(![resim1.jpeg](../../../../res/drawable/resim1.jpeg))
+![resim2.jpeg](../../../../res/drawable/resim2.jpeg)
+![resim3.jpeg](../../../../res/drawable/resim3.jpeg)
+![resim4.jpeg](../../../../res/drawable/resim4.jpeg)
+
 ## 🚀 Proje Özeti
 
 Uygulama, JSONPlaceholder API'den kullanıcı verilerini çekerek liste halinde gösterir.  
