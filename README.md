@@ -12,14 +12,14 @@ Modern Android uygulaması. **MVVM**, **Jetpack Compose**, **Retrofit** kullanı
 
 ---
 
-## 🚀 Proje Özeti
+##  Proje Özeti
 
 Uygulama, JSONPlaceholder API'den kullanıcı verilerini çekerek liste halinde gösterir.  
 Kullanıcılar detay ekranına gidebilir ve listeyi filtreleyebilir.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Kotlin
 - MVVM Architecture
@@ -30,7 +30,7 @@ Kullanıcılar detay ekranına gidebilir ve listeyi filtreleyebilir.
 
 ---
 
-## ✨ Özellikler
+##  Özellikler
 
 - 🔍 Kullanıcı arama (isim, email, username)
 - 📄 Detay ekranı
